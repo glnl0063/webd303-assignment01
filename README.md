@@ -22,15 +22,15 @@ For more information on the Expo command line tool, visit the [Expo](https://htt
 Before running the project, install the following 
 
 1. Install React Native
- `code(expo install react-native)`
+ ```expo install react-native```
 2. Install React Native Gesture Handler
- `code(expo install react-native-gesture-handler)`
+ ```expo install react-native-gesture-handler```
 3. Install React Native Reanimated
- `code(expo install react-native-reanimated)`
+ ```expo install react-native-reanimated```
 4. Install React Navigation
- `code(expo install react-navigation)`
+ ```expo install react-navigation```
 5. Install React Navigation Tabs
- `code(expo install react-navigation-tabs)`   
+ ```expo install react-navigation-tabs``` 
 
 ## Authors
 * Alyssa Galinato
