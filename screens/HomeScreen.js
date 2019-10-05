@@ -36,7 +36,7 @@ export default class HomeScreen extends Component {
     // return the following 
     return (
 
-      // pass data from parent to child component (RestaurantCard.js)      
+      // pass data from parent to child component (VerticalRestaurantCard.js)      
       <SafeAreaView style={style.container}>
         <ScrollView>
 
