@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Yan Yu",
+        "address": "237 Consumers Road",
+        "location": "Henry Farm", 
+        "rating": "4.0",
+        "type": "Chinese", 
+        "image": "https://images.unsplash.com/photo-1525755662778-989d0524087e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    }, 
+    {
+        "name": "Ikkousha Ramen",
+        "address": "249 Queen Street W",
+        "location": "Queen Street West", 
+        "rating": "4.3",
+        "type": "Japanese", 
+        "image": "https://images.unsplash.com/photo-1509680859026-7d8cfc6894f4?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    }, 
+    {
+        "name": "Bluestone Lane",
+        "address": "2 Queen St E",
+        "location": "Downtown Core", 
+        "rating": "5.0",
+        "type": "Coffee & Tea", 
+        "image": "https://images.unsplash.com/photo-1498804103079-a6351b050096?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    }, 
+    {
+        "name": "Centrale Bergham",
+        "address": "482 Queen Street W",
+        "location": "Alexandra Park", 
+        "rating": "4.5",
+        "type": "Canadian", 
+        "image": "https://images.unsplash.com/photo-1548435297-6fcc2b3def2f?ixlib=rb-1.2.1&auto=format&fit=crop&w=634&q=80"
+    }, 
+    {
+        "name": "Azkadenya - Mezza Diner",
+        "address": "235 Queen Street West",
+        "location": "Queen Street West", 
+        "rating": "3.9",
+        "type": "Middle Eastern", 
+        "image": "https://images.unsplash.com/photo-1542528180-1c2803fa048c?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    }
+]

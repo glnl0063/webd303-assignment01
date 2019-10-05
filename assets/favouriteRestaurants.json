@@ -1,0 +1,42 @@
+[
+    {
+        "name": "Gyu-Kaku",
+        "address": "81 Church Street",
+        "location": "Corktown", 
+        "rating": "4.0",
+        "type": "Japanese", 
+        "image": "https://images.unsplash.com/photo-1527578054032-8d8f044e013d?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    }, 
+    {
+        "name": "Saku Sushi",
+        "address": "249 Queen Street W",
+        "location": "Alexandra Park", 
+        "rating": "4.0",
+        "type": "Japanese", 
+        "image": "https://images.unsplash.com/photo-1534482421-64566f976cfa?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    }, 
+    {
+        "name": "Buk Chang Dong Soon",
+        "address": "691 Bloor Street W",
+        "location": "Koreatown", 
+        "rating": "4.2",
+        "type": "Korean", 
+        "image": "https://images.unsplash.com/photo-1557038684-abb03178899e?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    }, 
+    {
+        "name": "Ikkousha Ramen",
+        "address": "249 Queen Street W",
+        "location": "Queen Street W", 
+        "rating": "4.5",
+        "type": "Japanese", 
+        "image": "https://images.unsplash.com/photo-1568096889942-6eedde686635?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    }, 
+    {
+        "name": "PG Clucks",
+        "address": "610 College Street",
+        "location": "Bickford Park", 
+        "rating": "4.5",
+        "type": "Sandwiches", 
+        "image": "https://images.unsplash.com/photo-1536014019466-da3e69c19fe9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+    }
+]
