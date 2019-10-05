@@ -70,6 +70,7 @@ const style = StyleSheet.create({
     width: "50%"   
   }, 
 
+  // container for name & location
   nameContainer: {
     paddingBottom: 15,
     width: "100%"
@@ -87,6 +88,7 @@ const style = StyleSheet.create({
     fontWeight: "bold",  
   }, 
 
+  // container for followers & following
   statContainer: {
     flexDirection: "row", 
   }, 
